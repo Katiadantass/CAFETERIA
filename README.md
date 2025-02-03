@@ -1,4 +1,4 @@
-### **Projeto 1 - Módulo 5**
+### **Projeto 1 - Módulo 5** ###
 
 A entrega desse exercício consiste em:
 
@@ -8,10 +8,10 @@ Utilize os elementos de imagens, formulários, títulos e fontes customizadas;
 
 O site deverá ser hospedado na Vercel e o link deverá nos ser encaminhado pela plataforma.
 
-💻 Demonstração
+### 💻 **Demonstração** ###
 
 Para visualizar uma prévia do projeto [clique aqui](https://vercel.com/katiadantass-projects/cafeteria)
 
-🙋 Créditos
+### 🙋 **Autora** ###
 
 [Katiadantass](https://github.com/Katiadantass)
